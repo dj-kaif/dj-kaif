@@ -1,4 +1,4 @@
-# Hi there, I'm Kaif! 👋 🤖
+# Hi there, I'm Kaif! 👋
 I am a passionate Developer specializing in **Discord Bot Development** and **High-Performance Hosting**. I focus on creating seamless, feature-rich experiences for communities without breaking the bank.
 ---
 ### 🛠️ What I Offer
