@@ -1,5 +1,6 @@
-# Hi there, I'm Kaif! 👋
-I am a passionate Developer specializing in **Discord Bot Development** and **High-Performance Hosting**. I focus on creating seamless, feature-rich experiences for communities without breaking the bank.
+# Hi there, I'm Kaif! 👋 
+**I am a passionate Developer specializing in Discord Bot Development and High-Performance Hosting.**  
+I focus on creating seamless, feature-rich experiences for communities without breaking the bank.
 ---
 ### 🛠️ What I Offer
 
@@ -20,5 +21,4 @@ Ready to take your Discord server to the next level? Let's chat about your proje
 *   **Discord Username:** `@dj.kaif`
 *   **Direct Profile:** [Click here to open Discord](https://discord.com/users/1237644967422459996)
 ---
-
 *“Turning your ideas into code, one line at a time.”*
