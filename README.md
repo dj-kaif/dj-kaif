@@ -6,7 +6,7 @@
 
 | Service | Description | Pricing |
 | :--- | :--- | :--- |
-| **Custom Bot Dev** | Tailor-made bots (Economy, Moderation, API integrations). | **Budget Friendly** |
+| **Custom Bot** | Tailor-made bots (Economy, Moderation, API integrations). | **Budget Friendly** |
 | **Reliable Hosting** | 24/7 uptime for your bots with low latency. | **Starting Cheap** |
 | **Bug Fixes** | Optimization and troubleshooting for existing code. | **Quick Turnaround** |
 
