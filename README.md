@@ -11,10 +11,9 @@ I am a passionate Developer specializing in **Discord Bot Development** and **Hi
 
 ---
 ### 🚀 Tech Stack
-*   **Languages:** JavaScript (Node.js), Python
-*   **Libraries:** Discord.js, Discord.py, Nextcord
+*   **Languages:** JavaScript & Python
+*   **Libraries:** Discord.js, Discord.py and many more depending on your needs
 *   **Database:** MongoDB, SQLite, PostgreSQL
-*   **Tools:** Git, Docker, Linux VPS Management
 ---
 ### 📞 Get In Touch
 Ready to take your Discord server to the next level? Let's chat about your project!
