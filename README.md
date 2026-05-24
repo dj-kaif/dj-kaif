@@ -1,6 +1,6 @@
 # Hi there, I'm Kaif! 👋 
-*I am a passionate Developer specializing in Discord Bot Development and High-Performance Hosting.**  
-I focus on creating seamless, feature-rich experiences for communities without breaking the bank.
+<sub>**I am a passionate Developer specializing in Discord Bot Development and High-Performance Hosting.**</sub>  
+<sub>I focus on creating seamless, feature-rich experiences for communities without breaking the bank.</sub>
 ---
 ### 🛠️ What I Offer
 
@@ -13,7 +13,7 @@ I focus on creating seamless, feature-rich experiences for communities without b
 ---
 ### 🚀 Tech Stack
 *   **Languages:** JavaScript & Python
-*   **Libraries:** Discord.js, Discord.py and many more depending on your needs
+*   **Libraries:** Discord.js, Discord.py and many more
 *   **Database:** MongoDB, SQLite, PostgreSQL
 ---
 ### 📞 Get In Touch
