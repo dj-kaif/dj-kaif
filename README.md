@@ -20,8 +20,5 @@ Ready to take your Discord server to the next level? Let's chat about your proje
 *   **Discord Username:** `@dj.kaif`
 *   **Direct Profile:** [Click here to open Discord](https://discord.com/users/1237644967422459996)
 ---
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dj-kaif&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical)
----
+
 *“Turning your ideas into code, one line at a time.”*
