@@ -1,18 +1,9 @@
 ## Hi 👋
 
-I'm **Kaif** — Discord bot developer & hosting specialist focused on building high-performance solutions for communities.
+I'm **Kaif** — Discord bot, Package/Library, website and mobile application developer focused on building high-performance solutions for communities.
 
-### 🛠️ What I Do
+If you need help with anything related to my interest, feel free to contact me through the details below 👇 
 
-- **Custom Discord Bots** - Economy, moderation, API integrations, and more
-- **Bot Hosting** - 24/7 uptime with optimized performance
-- **Optimization & Debugging** - Fix bugs and improve existing code
-
-### 💻 Tech Stack
-
-**Languages:** JavaScript, Python  
-**Frameworks:** Discord.js, Discord.py  
-**Databases:** MongoDB, SQLite, PostgreSQL  
 
 ### 📮 Get In Touch
 
